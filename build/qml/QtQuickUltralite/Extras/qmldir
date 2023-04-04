@@ -1,0 +1,12 @@
+module QtQuickUltralite.Extras
+linktarget Qt6::QuickUltraLiteStudioExtrasplugin
+optional plugin quickultralitestudioextrasplugin
+classname QtQuickUltralite_ExtrasPlugin
+designersupported
+typeinfo QuickUltraLiteStudioExtras.qmltypes
+prefer :/qt-project.org/imports/QtQuickUltralite/Extras/
+ColorizedImage 6.0 ColorizedImage.qml
+ColorizedImage 1.0 ColorizedImage.qml
+StaticText 6.0 StaticText.qml
+StaticText 1.0 StaticText.qml
+

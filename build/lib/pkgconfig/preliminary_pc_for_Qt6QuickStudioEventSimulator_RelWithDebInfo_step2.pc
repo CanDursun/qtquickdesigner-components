@@ -1,0 +1,14 @@
+prefix=/home/modeo/Qt/6.5.0/gcc_64
+exec_prefix=${prefix}
+bindir=${prefix}/bin
+libexecdir=${prefix}/./libexec
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+ 
+Name: Qt6 QuickStudioEventSimulator
+Description: Qt QuickStudioEventSimulator module
+Version: 6.2.4
+Libs: -L${libdir} -lQt6QuickStudioEventSimulator  
+Cflags:  -DQT_QUICKSTUDIOEVENTSIMULATOR_LIB
+Requires: 

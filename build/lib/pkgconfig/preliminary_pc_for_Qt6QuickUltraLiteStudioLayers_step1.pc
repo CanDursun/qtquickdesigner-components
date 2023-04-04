@@ -1,0 +1,14 @@
+prefix=/home/modeo/Qt/6.5.0/gcc_64
+exec_prefix=${prefix}
+bindir=${prefix}/bin
+libexecdir=${prefix}/./libexec
+libdir=${prefix}/lib
+includedir=${prefix}/include
+$<$<BOOL:>:mkspecsdir=${prefix}/mkspecs>
+$<1: >
+Name: Qt6 QuickUltraLiteStudioLayers
+Description: Qt QuickUltraLiteStudioLayers module
+Version: 6.2.4
+Libs: $<$<NOT:$<STREQUAL:$<TARGET_PROPERTY:Qt6::QuickUltraLiteStudioLayers,TYPE>,INTERFACE_LIBRARY>>:-L${libdir} -lQt6QuickUltraLiteStudioLayers> $<$<BOOL:loose_link_options-NOTFOUND>:$<JOIN:$<REMOVE_DUPLICATES:loose_link_options-NOTFOUND>, >> $<JOIN:$<REMOVE_DUPLICATES:>, >
+Cflags: $<$<BOOL:loose_${includedir}_dirs-NOTFOUND>:-I$<JOIN:$<REMOVE_DUPLICATES:loose_${includedir}_dirs-NOTFOUND>, -I>> $<$<BOOL:QT_QUICKULTRALITESTUDIOLAYERS_LIB>:-D$<JOIN:$<REMOVE_DUPLICATES:QT_QUICKULTRALITESTUDIOLAYERS_LIB>, -D>>
+Requires: $<JOIN:$<REMOVE_DUPLICATES:>, >

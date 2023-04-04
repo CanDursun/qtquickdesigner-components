@@ -1,0 +1,1 @@
+FINAL_PRL_FILE_PATH = /home/modeo/EnochApp/Enoch_Qt/enoch-qt2/qtquickdesigner-components/build/lib/libQt6QuickUltraLiteStudioExtras.prl

@@ -1,0 +1,15 @@
+-module
+QtQuickStudioApplication
+-sourceDir
+/home/modeo/EnochApp/Enoch_Qt/enoch-qt2/qtquickdesigner-components/src/imports/application
+-binaryDir
+/home/modeo/EnochApp/Enoch_Qt/enoch-qt2/qtquickdesigner-components/build/src/imports/application
+-privateHeadersFilter
+.+_p(ch)?\.h
+-includeDir
+/home/modeo/EnochApp/Enoch_Qt/enoch-qt2/qtquickdesigner-components/build/include/QtQuickStudioApplication
+-privateIncludeDir
+/home/modeo/EnochApp/Enoch_Qt/enoch-qt2/qtquickdesigner-components/build/include/QtQuickStudioApplication/6.2.4/QtQuickStudioApplication/private
+-qpaIncludeDir
+/home/modeo/EnochApp/Enoch_Qt/enoch-qt2/qtquickdesigner-components/build/include/QtQuickStudioApplication/6.2.4/QtQuickStudioApplication/qpa
+-all

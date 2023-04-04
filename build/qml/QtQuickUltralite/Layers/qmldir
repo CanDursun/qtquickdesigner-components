@@ -1,0 +1,18 @@
+module QtQuickUltralite.Layers
+linktarget Qt6::QuickUltraLiteStudioLayersplugin
+optional plugin quickultralitestudiolayersplugin
+classname QtQuickUltralite_LayersPlugin
+designersupported
+typeinfo QuickUltraLiteStudioLayers.qmltypes
+prefer :/qt-project.org/imports/QtQuickUltralite/Layers/
+Application 6.0 Application.qml
+Application 1.0 Application.qml
+ImageLayer 6.0 ImageLayer.qml
+ImageLayer 1.0 ImageLayer.qml
+ItemLayer 6.0 ItemLayer.qml
+ItemLayer 1.0 ItemLayer.qml
+Screen 6.0 Screen.qml
+Screen 1.0 Screen.qml
+SpriteLayer 6.0 SpriteLayer.qml
+SpriteLayer 1.0 SpriteLayer.qml
+

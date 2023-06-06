@@ -1,5 +1,5 @@
 # ninja log v5
-0	10	1680602066229915289	CMakeFiles/lib1.dir/lib1.cpp.o	1725b8013e1350
-10	25	1680602066245915286	liblib1.so	2962c0de8912939e
-25	31	0	CMakeFiles/print_lib_path	6a64d673dab3be9b
-25	31	0	/home/modeo/EnochApp/Enoch_Qt/enoch-qt2/qtquickdesigner-components/build/config.tests/binary_for_strip_built/CMakeFiles/print_lib_path	6a64d673dab3be9b
+0	9	1685540767458055507	CMakeFiles/lib1.dir/lib1.cpp.o	18b3d8526ccea02c
+9	25	1685540767474055520	liblib1.so	2962c0de8912939e
+25	30	0	CMakeFiles/print_lib_path	6a64d673dab3be9b
+25	30	0	/home/modeo/EnochApp/Enoch_Qt/enoch-qt2/qtquickdesigner-components/build/config.tests/binary_for_strip_built/CMakeFiles/print_lib_path	6a64d673dab3be9b

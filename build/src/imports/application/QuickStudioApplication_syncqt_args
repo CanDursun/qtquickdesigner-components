@@ -12,6 +12,7 @@ QtQuickStudioApplication
 /home/modeo/EnochApp/Enoch_Qt/enoch-qt2/qtquickdesigner-components/build/include/QtQuickStudioApplication/6.2.4/QtQuickStudioApplication/private
 -qpaIncludeDir
 /home/modeo/EnochApp/Enoch_Qt/enoch-qt2/qtquickdesigner-components/build/include/QtQuickStudioApplication/6.2.4/QtQuickStudioApplication/qpa
+-generatedHeaders
 -module
 QtQuickStudioApplication
 -sourceDir
@@ -26,9 +27,9 @@ QtQuickStudioApplication
 /home/modeo/EnochApp/Enoch_Qt/enoch-qt2/qtquickdesigner-components/build/include/QtQuickStudioApplication/6.2.4/QtQuickStudioApplication/private
 -qpaIncludeDir
 /home/modeo/EnochApp/Enoch_Qt/enoch-qt2/qtquickdesigner-components/build/include/QtQuickStudioApplication/6.2.4/QtQuickStudioApplication/qpa
+-generatedHeaders
 -headers
 /home/modeo/EnochApp/Enoch_Qt/enoch-qt2/qtquickdesigner-components/src/imports/application/quickstudioapplication_p.h
--generatedHeaders
 -stagingDir
 /home/modeo/EnochApp/Enoch_Qt/enoch-qt2/qtquickdesigner-components/build/include/QtQuickStudioApplication/.syncqt_staging
 -knownModules

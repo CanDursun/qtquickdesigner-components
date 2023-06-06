@@ -1,4 +1,4 @@
-prefix=/home/modeo/Qt/6.5.0/gcc_64
+prefix=/home/modeo/Qt/6.5.1/gcc_64
 exec_prefix=${prefix}
 bindir=${prefix}/bin
 libexecdir=${prefix}/./libexec
